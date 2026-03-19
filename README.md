@@ -38,6 +38,7 @@ Once you have pushed your code, you can see your results on a real webpage:
 4.  Click **Save**.
 5.  **Wait 60 seconds.** Refresh the page. A link will appear: *"Your site is live at..."*
 6.  Click that link to see your "JS Assignment Dashboard"!
+7.  >>>> POST THE LINK TO YOUR PUBLISHED WORK IN THE ASSIGNMENT COMMENTS ON POPULI <<<<
 
 ---
 
